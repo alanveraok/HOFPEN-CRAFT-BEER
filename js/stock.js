@@ -25,7 +25,7 @@ export const beers = [
     tipo: "GOLDEN",
     nombre: "Áurea",
     texto:
-      "De alta graduación alcohólica, una mayor cantidad de lúpulo y por lo tanto un amargor y aroma intensos y cierta complejidad en el paladar",
+      "Tiene un agradable color dorado, amargor liviano, carbonatación media-alta, un suave sabor a cereal hace el soporte dulce para la combinación de lúpulos alemanes y americanos que entregan frescas notas cítricas y florales, cuerpo medio y agradable espuma",
     precio: 1800,
   },
 

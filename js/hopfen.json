@@ -22,7 +22,7 @@
     "poster": "/imagenes/golden.png",
     "tipo": "Golden",
     "nombre": "Áurea",
-    "texto": "De alta graduación alcohólica, una mayor cantidad de lúpulo y por lo tanto un amargor y aroma intensos y cierta complejidad en el paladar",
+    "texto": "Tiene un agradable color dorado, amargor liviano, carbonatación media-alta, un suave sabor a cereal hace el soporte dulce para la combinación de lúpulos alemanes y americanos",
     "precio": 1500
   },
 
@@ -49,7 +49,7 @@
     "poster": "/imagenes/american-pale-ale.jpg",
     "tipo": "AMERICAN PALE ALE",
     "nombre": "AMERICANA",
-    "texto": " Generalmente ligera y fresca, aunque el cuerpo puede llegar a ser medio. Sensación de boca suave, con atenuación media a alta.",
+    "texto": " Cerveza de trago largo, suave, ligera, tirando a seca, porque son cervezas pensadas para quitar la sed y refrescar.",
     "precio": 1500
   },
 
@@ -58,7 +58,7 @@
     "poster": "/imagenes/stout.jpg",
     "tipo": "STOUT",
     "nombre": "SITH STOUT",
-    "texto": "  Cerveza de fermentación alta, muy oscura y con un sabor muy intenso. Su color, casi negro, se consigue utilizando malta muy tostada",
+    "texto": "  Se caracteriza por ser sumamente oscura casi negra, bien tostada y con un gran porcentaje de alcohol. En nariz se perciben aromas a café y chocolate.",
     "precio": 1500
   },
   {
@@ -75,7 +75,7 @@
     "poster": "/imagenes/dorada-pampeana.jpg",
     "tipo": "DORADA PAMPEANA",
     "nombre": "PROVINCIA OCULTA",
-    "texto": "  Cerveza de fermentación alta, muy oscura y con un sabor muy intenso. Su color, casi negro, se consigue utilizando malta muy tostada",
+    "texto": " Este estilo surgido en base al paladar argetino, fue ganando popularidad y se llega a producir en todo el país.",
     "precio": 1500
   }
 ]
