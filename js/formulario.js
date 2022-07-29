@@ -38,10 +38,9 @@ function getData() {
     inputNombre.value = userData.nombre;
     inputCiudad.value = userData.ciudad;
     inputTelefono.value = userData.telefono;
-  } 
+  }
 
   if (localStorage.getItem("userCart")) {
-    debugger;
     const userCart = JSON.parse(localStorage.getItem("userCart"));
     const itemsComprados = document.getElementById("itemsComprados");
     const userItems = userCart.map((beer) => beer.tipo).join(", ");
